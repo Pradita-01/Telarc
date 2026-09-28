@@ -1,0 +1,98 @@
+[
+  {
+    "id": "Q001",
+    "question": "What is Airtel's 5G customer base?",
+    "category": "semantic",
+    "expected_answerable": true,
+    "expected_document": "Bharti Airtel IAR 2024-25.pdf",
+    "expected_page": 28
+  },
+  {
+    "id": "Q002",
+    "question": "What was Reliance Jio's revenue for FY2024-25?",
+    "category": "financial",
+    "expected_answerable": true,
+    "expected_document": "Reliance_Jio_Infocomm_Limited-2024-25.pdf",
+    "expected_page": 12
+  },
+  {
+    "id": "Q003",
+    "question": "What security considerations are discussed in the Ericsson 5G security document?",
+    "category": "technical",
+    "expected_answerable": true,
+    "expected_document": "Ericsson_5G_Security.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "Q004",
+    "question": "What does GSMA IR.21 describe?",
+    "category": "technical",
+    "expected_answerable": true,
+    "expected_document": "GSMA_IR21.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "Q005",
+    "question": "What was Reliance Jio's profit for FY2024-25?",
+    "category": "financial",
+    "expected_answerable": true,
+    "expected_document": "Reliance_Jio_Infocomm_Limited-2024-25.pdf",
+    "expected_page": 12
+  },
+  {
+    "id": "Q006",
+    "question": "What are Reliance Jio's current assets for FY2024-25?",
+    "category": "financial",
+    "expected_answerable": true,
+    "expected_document": "Reliance_Jio_Infocomm_Limited-2024-25.pdf",
+    "expected_page": 11
+  },
+  {
+    "id": "Q007",
+    "question": "What is the 5G network architecture described in the 3GPP document?",
+    "category": "technical",
+    "expected_answerable": true,
+    "expected_document": "3GPP_Network_Architecture.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "Q008",
+    "question": "What troubleshooting approach does the Cisco document recommend?",
+    "category": "technical",
+    "expected_answerable": true,
+    "expected_document": "Cisco_Troubleshooting.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "Q009",
+    "question": "What will Airtel's satellite internet revenue be in 2035?",
+    "category": "abstention",
+    "expected_answerable": false,
+    "expected_document": null,
+    "expected_page": null
+  },
+  {
+    "id": "Q010",
+    "question": "What will Airtel's 5G customer base be in 2040?",
+    "category": "abstention",
+    "expected_answerable": false,
+    "expected_document": null,
+    "expected_page": null
+  },
+  {
+    "id": "Q011",
+    "question": "Who will be the largest telecom operator in India in 2030?",
+    "category": "abstention",
+    "expected_answerable": false,
+    "expected_document": null,
+    "expected_page": null
+  },
+  {
+    "id": "Q012",
+    "question": "What is Airtel's stock price today?",
+    "category": "abstention",
+    "expected_answerable": false,
+    "expected_document": null,
+    "expected_page": null
+  }
+]

@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/indexes/
+.pytest_cache/
+.vscode/
+
+# Local datasets and generated data
+data/raw/
+data/processed/
+data/indexes/
+
+# Local conversation history
+data/chat_history.json
+
+# Generated evaluation reports
+data/evaluation/evaluation_report.json
+data/evaluation/retrieval_evaluation_report.json
